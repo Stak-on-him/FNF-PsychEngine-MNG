@@ -70,6 +70,8 @@ class TitleState extends MusicBeatState
 		super.create();
 		Paths.clearUnusedMemory();
 
+		DiscordClient.changePresence("In the Menus : Title Screen", null);
+
 		if(!initialized)
 		{
 			ClientPrefs.loadPrefs();
