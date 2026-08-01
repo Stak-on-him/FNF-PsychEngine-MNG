@@ -109,6 +109,7 @@ class StoryMenuState extends MusicBeatState
 				grpWeekText.add(weekThing);
 
 				weekThing.screenCenter(X);
+				weekThing.x = weekThing.x - 425;
 				// weekThing.updateHitbox();
 
 				// Needs an offset thingie
@@ -145,6 +146,7 @@ class StoryMenuState extends MusicBeatState
 		leftArrow.animation.addByPrefix('press', "arrow push left");
 		leftArrow.animation.play('idle');
 		difficultySelectors.add(leftArrow);
+		leftArrow.x = leftArrow.x - 400;
 
 		Difficulty.resetList();
 		if(lastDifficultyName == '')
@@ -172,12 +174,14 @@ class StoryMenuState extends MusicBeatState
 		var tracksSprite:FlxSprite = new FlxSprite(FlxG.width * 0.07 + 100, bgSprite.y + 425).loadGraphic(Paths.image('Menu_Tracks'));
 		tracksSprite.antialiasing = ClientPrefs.data.antialiasing;
 		tracksSprite.x -= tracksSprite.width/2;
+		tracksSprite.x = tracksSprite.x + 900;
 		add(tracksSprite);
 
 		txtTracklist = new FlxText(FlxG.width * 0.05, tracksSprite.y + 60, 0, "", 32);
 		txtTracklist.alignment = CENTER;
 		txtTracklist.font = Paths.font("vcr.ttf");
 		txtTracklist.color = 0xFFe55777;
+		txtTracklist.x = txtTracklist.x + 900;
 		add(txtTracklist);
 		add(scoreText);
 		add(txtWeekTitle);
