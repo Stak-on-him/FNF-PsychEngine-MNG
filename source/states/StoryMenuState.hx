@@ -181,7 +181,6 @@ class StoryMenuState extends MusicBeatState
 		txtTracklist.alignment = CENTER;
 		txtTracklist.font = Paths.font("vcr.ttf");
 		txtTracklist.color = 0xFFe55777;
-		txtTracklist.x = txtTracklist.x + 900;
 		add(txtTracklist);
 		add(scoreText);
 		add(txtWeekTitle);
@@ -487,6 +486,7 @@ class StoryMenuState extends MusicBeatState
 
 		txtTracklist.screenCenter(X);
 		txtTracklist.x -= FlxG.width * 0.35;
+		txtTracklist.x = txtTracklist.x + 900;
 
 		#if !switch
 		intendedScore = Highscore.getWeekScore(loadedWeeks[curWeek].fileName, curDifficulty);
