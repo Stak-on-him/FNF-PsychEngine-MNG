@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [-15, 278],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [31, 278],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [-28, 320],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [-28, 300],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [-9, 242],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [25, 283],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-34, 322],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-26, 294],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "RMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-12, 244],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DMiss",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Gemroz/Gemroz",
+	"position": [0, 350],
+	"healthicon": "gemroz",
+	"flip_x": true,
+	"healthbar_colors": [188, 57, 101],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": true
+}
