@@ -73,7 +73,7 @@
 			"name": "DMiss"
 		}
 	],
-	"vocals_file": "",
+	"vocals_file": "sim01op",
 	"no_antialiasing": false,
 	"image": "characters/Sim01/Sim01",
 	"position": [0, 350],

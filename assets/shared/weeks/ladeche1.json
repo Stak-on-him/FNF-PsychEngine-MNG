@@ -5,12 +5,6 @@
 	"weekBackground": "",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"bf",
-		""
-	],
-	"hideStoryMode": false,
 	"songs": [
 		[
 			"LAVIDLAVEY",
@@ -40,6 +34,12 @@
 			]
 		]
 	],
-	"weekName": "LA DECHE 1",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"23mb",
+		"bf",
+		""
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "LA DECHE 1"
 }

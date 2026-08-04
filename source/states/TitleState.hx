@@ -201,6 +201,7 @@ class TitleState extends MusicBeatState
 
 		add(gfDance);
 		add(logoBl); //FNF Logo
+		logoBl.y = logoBl.y + 20;
 		add(titleText); //"Press Enter to Begin" text
 		add(credGroup);
 		add(ngSpr);
