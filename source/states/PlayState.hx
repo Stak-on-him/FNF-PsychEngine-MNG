@@ -2298,7 +2298,44 @@ class PlayState extends MusicBeatState
 			case 'Play Sound':
 				if(flValue2 == null) flValue2 = 1;
 				FlxG.sound.play(Paths.sound(value1), flValue2);
-		}
+
+			case "Change Song":
+				var targetSong:String = value1.trim();
+				if (targetSong != '' && targetSong != null) {
+					var formattedSong:String = Paths.formatToSongPath(targetSong);
+
+					// Stop current music
+					if (FlxG.sound.music != null) FlxG.sound.music.stop();
+
+					// Safely stop and clear existing vocals without destroying the group structure
+					if (vocals != null) {
+						vocals.stop();
+						vocals.pause();
+					}
+
+					// Load new instrumental
+					FlxG.sound.playMusic(Paths.inst(formattedSong), 1, false);
+				FlxG.sound.music.time = Conductor.songPosition;
+
+					// Load new vocals through native backend
+					try {
+						var loadedVocals = Paths.voices(formattedSong);
+						if (loadedVocals != null) {
+							if (vocals == null) vocals = new FlxSound();
+							vocals.loadEmbedded(loadedVocals);
+							FlxG.sound.list.add(vocals);
+							vocals.time = Conductor.songPosition;
+							vocals.play();
+						} else {
+							if (vocals != null) vocals.volume = 0; // Mute existing reference safely
+						}
+					} catch(e:Dynamic) {
+						if (vocals != null) vocals.volume = 0;
+					}
+
+					FlxG.sound.music.play();}
+	
+    }
 
 		stagesFunc(function(stage:BaseStage) stage.eventCalled(eventName, value1, value2, flValue1, flValue2, strumTime));
 		callOnScripts('onEvent', [eventName, value1, value2, strumTime]);

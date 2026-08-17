@@ -70,8 +70,8 @@ yes: "Oui"
 no: "Non"
 
 // Achievements
-achievement_friday_night_play: "Sextou"
-description_friday_night_play: "Jogue em uma noite... de Sexta."
+achievement_friday_night_play: "A la bonne heure!"
+description_friday_night_play: "Jouer un vendredi...soir"
 achievement_week1_nomiss: "Elle m'appelle aussi Papa"
 description_week1_nomiss: "Finir la Week 1 en difficile sans fautes."
 achievement_week2_nomiss: "Fini les bêtises"
@@ -106,8 +106,10 @@ achievement_debugger: "Mod Debug"
 description_debugger: "Terminez la chanson « Test » à l'aide de l'éditeur de Chart."
 achievement_pessy_easter_egg: "Fille qui code"
 description_pessy_easter_egg: "Héhé, tu m'as trouvé ~ !"
-achievement_NOMDELAWEEK_nomiss: "NOM DU SUCCES"
-description_NOMDELAWEEK_nomiss: "Finir NOMDELAWEEK en difficile sans fautes"
+achievement_ladeche1_nomiss: "NOM DU SUCCES"
+description_ladeche1_nomiss: "Finir La Deche 1 en difficile sans fautes"
+achievement_ladeche2_nomiss: "NOM DU SUCCES"
+description_ladeche2_nomiss: "Finir La Deche 2 en difficile sans fautes"
 
 // Options
 options_note_colors: "Couleurs des Notes"

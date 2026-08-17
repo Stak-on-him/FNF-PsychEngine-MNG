@@ -1,0 +1,2 @@
+Value 1: Set Dad's trail = 1 Or 0
+Value 2: Set BF's trail = 1 Or 0

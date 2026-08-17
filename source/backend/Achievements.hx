@@ -58,7 +58,8 @@ class Achievements {
 		#if (TITLE_SCREEN_EASTER_EGG || PSYCH_WATERMARKS)
 		createAchievement('pessy_easter_egg',		{name: "Engine Gal Pal", description: "Teehee, you found me~!", hidden: true});
 		#end
-		createAchievement('NOMDELAWEEK_nomiss',		{name: "ACHIEVEMENT NAME", description: "Beat NOM DE LA WEEK on Hard with no Misses."});
+		createAchievement('ladeche1_nomiss',		{name: "C'est plus tant la deche", description: "Beat La Deche 1 on Hard with no Misses.", hidden: true});
+		createAchievement('ladeche2_nomiss',		{name: "C'est meme plus du tout la deche", description: "Beat La Deche 2 on Hard with no Misses.", hidden: true});
 
 		//dont delete this thing below
 		_originalLength = _sortID + 1;

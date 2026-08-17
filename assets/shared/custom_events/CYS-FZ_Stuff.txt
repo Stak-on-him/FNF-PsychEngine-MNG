@@ -1,0 +1,9 @@
+to turn on:
+
+Event: ToggleStaticOverlay
+Value1: on
+
+to turn off:
+
+Event: ToggleStaticOverlay
+Value1: off

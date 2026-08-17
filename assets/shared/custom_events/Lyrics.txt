@@ -1,0 +1,5 @@
+Lyrics!!!
+Value 1: Text
+Value 2: Color (in hex)
+To clear it, add another event, and leave the values blank
+The default color is Blue.

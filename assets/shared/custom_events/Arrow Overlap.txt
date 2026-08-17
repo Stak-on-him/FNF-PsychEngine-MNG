@@ -1,0 +1,7 @@
+This event overlaps the opponent and player arrows
+
+Value 1:
+Where the arrows overlap (left, middle, right)
+
+Value 2:
+Flip opponent's scroll direction (yes, no)

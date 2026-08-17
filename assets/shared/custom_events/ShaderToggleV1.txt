@@ -1,0 +1,4 @@
+value1=name of shader in mods/shaders
+value2=on or off
+
+value1=leave blank for disable

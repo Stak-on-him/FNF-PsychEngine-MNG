@@ -1,0 +1,5 @@
+Set Camera Shader
+value 1: camGame, camHUD, camOther
+value 2: Shader name /shaders/..
+
+If need clean sprite at shader do Empty Alll
