@@ -1,64 +1,48 @@
 {
 	"animations": [
 		{
-			"offsets": [-15, 278],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-5, 0],
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		},
 		{
-			"offsets": [31, 278],
 			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
-		},
-		{
-			"offsets": [-28, 320],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
-		},
-		{
-			"offsets": [-28, 300],
-			"loop": false,
-			"fps": 24,
+			"offsets": [-22, 14],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right"
+			"fps": 24,
+			"name": "Right",
+			"indices": []
 		},
 		{
 			"loop": false,
-			"offsets": [-9, 242],
+			"offsets": [-5, 43],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [60, 0],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1, -43],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "DMiss",
+			"name": "Down",
 			"indices": []
 		},
 		{
 			"loop": false,
-			"offsets": [25, 283],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "LMiss",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-34, 322],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "UMiss",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-26, 294],
+			"offsets": [-21, 11],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
 			"name": "RMiss",
@@ -66,22 +50,38 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-12, 244],
+			"offsets": [-12, 44],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [61, -11],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, -47],
 			"anim": "singDOWNmiss",
 			"fps": 24,
 			"name": "DMiss",
 			"indices": []
 		}
 	],
-	"vocals_file": "gemrozpa",
+	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/Gemroz/Gemroz",
-	"position": [0, 350],
-	"healthicon": "gemroz",
+	"image": "characters/Gemroz",
+	"position": [30, 20],
+	"healthicon": "bf",
 	"flip_x": true,
-	"healthbar_colors": [188, 57, 101],
-	"camera_position": [0, 0],
+	"healthbar_colors": [0, 255, 0],
+	"camera_position": [170, 10],
 	"sing_duration": 4,
-	"scale": 0.9,
+	"scale": 1,
 	"_editor_isPlayer": true
 }

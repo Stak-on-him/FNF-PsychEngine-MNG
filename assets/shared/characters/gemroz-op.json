@@ -1,87 +1,78 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				-5,
+				0
+			],
 			"loop": false,
-			"offsets": [0, 286],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Idle",
-			"indices": []
+			"indices": [],
+			"name": "Idle"
 		},
 		{
+			"offsets": [
+				38,
+				14
+			],
 			"loop": false,
-			"offsets": [92, 288],
-			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-19, 330],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [31, 313],
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Right",
-			"indices": []
+			"indices": [],
+			"name": "Right"
 		},
 		{
-			"offsets": [91, 260],
+			"offsets": [
+				-45,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				75,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				102,
+				-45
+			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "DMiss"
-		},
-		{
-			"offsets": [83, 299],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "LMiss"
-		},
-		{
-			"offsets": [-27, 336],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "UMiss"
-		},
-		{
-			"offsets": [32, 306],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "RMiss"
-		},
-		{
-			"offsets": [90, 263],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "DMiss"
+			"name": "Down"
 		}
 	],
-	"vocals_file": "gemrozop",
 	"no_antialiasing": false,
-	"image": "characters/Gemroz/Gemroz",
-	"position": [0, 350],
-	"healthicon": "gemroz",
+	"image": "characters/Gemroz",
+	"position": [
+		30,
+		0
+	],
+	"healthicon": "bf",
 	"flip_x": true,
-	"healthbar_colors": [188, 57, 101],
-	"camera_position": [0, 0],
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		170,
+		10
+	],
 	"sing_duration": 4,
-	"scale": 0.9,
-	"_editor_isPlayer": false
+	"scale": 1
 }

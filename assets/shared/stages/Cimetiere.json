@@ -3,25 +3,25 @@
 		-55,
 		-205
 	],
-	"preload": {
-		"images/stageback": 3,
-		"images/stagefront": 3,
-		"images/stagecurtains": 2,
-		"images/stage_light": 2
-	},
 	"_editorMeta": {
 		"boyfriend": "23MB-pa",
-		"dad": "23MB-pa",
-		"gf": "gfSoeur"
+		"gf": "none",
+		"dad": "23MB-pa"
 	},
-	"boyfriend": [
-		943,
-		97
-	],
-	"stageUI": "",
+	"preload": {
+		"images/stage_light": 2,
+		"images/stagecurtains": 2,
+		"images/stagefront": 3,
+		"images/stageback": 3
+	},
 	"girlfriend": [
 		475,
 		135
+	],
+	"stageUI": "",
+	"boyfriend": [
+		943,
+		97
 	],
 	"objects": [
 		{
@@ -61,15 +61,15 @@
 		0
 	],
 	"defaultZoom": 0.7,
+	"camera_speed": 1,
+	"directory": "week1",
 	"opponent": [
 		70,
 		100
 	],
-	"directory": "week1",
-	"camera_speed": 1,
-	"hide_girlfriend": false,
 	"camera_opponent": [
-		-400,
+		150,
 		-200
-	]
+	],
+	"hide_girlfriend": true
 }

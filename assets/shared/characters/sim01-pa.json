@@ -1,64 +1,66 @@
 {
 	"animations": [
 		{
-			"offsets": [4, 256],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-5,
+				0
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		},
 		{
-			"offsets": [65, 254],
 			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
-		},
-		{
-			"offsets": [8, 321],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
-		},
-		{
-			"offsets": [0, 261],
-			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-21,
+				-3
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right"
+			"fps": 24,
+			"name": "Right",
+			"indices": []
 		},
 		{
 			"loop": false,
-			"offsets": [30, 241],
+			"offsets": [
+				-3,
+				79
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-31
+			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "DMiss",
+			"name": "Down",
 			"indices": []
 		},
 		{
 			"loop": false,
-			"offsets": [57, 251],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "LMiss",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [32, 321],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "UMiss",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-6, 262],
+			"offsets": [
+				-20,
+				-4
+			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
 			"name": "RMiss",
@@ -66,22 +68,55 @@
 		},
 		{
 			"loop": false,
-			"offsets": [27, 245],
+			"offsets": [
+				36,
+				76
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				-11
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-31
+			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
 			"name": "DMiss",
 			"indices": []
 		}
 	],
-	"vocals_file": "sim01op",
 	"no_antialiasing": false,
-	"image": "characters/Sim01/Sim01",
-	"position": [0, 350],
-	"healthicon": "sim01",
+	"image": "characters/Sim01",
+	"position": [
+		30,
+		0
+	],
+	"healthicon": "bf",
 	"flip_x": true,
-	"healthbar_colors": [220, 254, 1],
-	"camera_position": [0, 0],
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		140,
+		90
+	],
 	"sing_duration": 4,
-	"scale": 0.7,
-	"_editor_isPlayer": true
+	"scale": 1
 }

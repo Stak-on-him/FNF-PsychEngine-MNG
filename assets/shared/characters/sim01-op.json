@@ -2,7 +2,10 @@
 	"animations": [
 		{
 			"loop": false,
-			"offsets": [124, 250],
+			"offsets": [
+				-5,
+				0
+			],
 			"anim": "idle",
 			"fps": 24,
 			"name": "Idle",
@@ -10,15 +13,21 @@
 		},
 		{
 			"loop": false,
-			"offsets": [85, 244],
-			"anim": "singLEFT",
+			"offsets": [
+				-52,
+				-3
+			],
+			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Left",
+			"name": "Right",
 			"indices": []
 		},
 		{
 			"loop": false,
-			"offsets": [62, 307],
+			"offsets": [
+				-103,
+				79
+			],
 			"anim": "singUP",
 			"fps": 24,
 			"name": "Up",
@@ -26,62 +35,44 @@
 		},
 		{
 			"loop": false,
-			"offsets": [88, 243],
-			"anim": "singRIGHT",
+			"offsets": [
+				-62,
+				-11
+			],
+			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Right",
+			"name": "Left",
 			"indices": []
 		},
 		{
-			"offsets": [84, 227],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-48,
+				-31
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "DMiss"
-		},
-		{
-			"offsets": [71, 241],
-			"loop": false,
 			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "LMiss"
-		},
-		{
-			"offsets": [62, 311],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "UMiss"
-		},
-		{
-			"offsets": [88, 248],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "RMiss"
-		},
-		{
-			"offsets": [95, 231],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "DMiss"
+			"name": "Down",
+			"indices": []
 		}
 	],
-	"vocals_file": "sim01op",
 	"no_antialiasing": false,
-	"image": "characters/Sim01/Sim01",
-	"position": [0, 350],
-	"healthicon": "sim01",
+	"image": "characters/Sim01",
+	"position": [
+		30,
+		0
+	],
+	"healthicon": "bf",
 	"flip_x": true,
-	"healthbar_colors": [220, 254, 1],
-	"camera_position": [0, 0],
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		140,
+		90
+	],
 	"sing_duration": 4,
-	"scale": 0.7,
-	"_editor_isPlayer": false
+	"scale": 1
 }

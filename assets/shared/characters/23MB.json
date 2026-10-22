@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [40, -11],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [25, -89],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-26, 47],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-11, -12],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [40, -11],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left-Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [27, -84],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down-Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-20, 47],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Up-Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-11, 7],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right-Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [76, 41],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "DeathConfirm0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [76, 13],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "DeathLoop0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [76, 13],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Die0",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/23MB",
+	"position": [200, 100],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [200, 0],
+	"sing_duration": 4,
+	"scale": 1.2,
+	"_editor_isPlayer": true
+}
