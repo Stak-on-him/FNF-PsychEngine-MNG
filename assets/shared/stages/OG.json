@@ -1,15 +1,47 @@
 {
-	"directory": "",
-	"defaultZoom": 0.60,
+	"camera_boyfriend": [
+		0,
+		-200
+	],
+	"_editorMeta": {
+		"boyfriend": "23MB-pa",
+		"gf": "invisible",
+		"dad": "sim01-op"
+	},
+	"girlfriend": [
+		390,
+		130
+	],
 	"stageUI": "",
-
-	"boyfriend": [770, 100],
-	"girlfriend": [400, 130],
-	"opponent": [100, 100],
-	"hide_girlfriend": true,
-
-	"camera_boyfriend": [-100, 0],
-	"camera_opponent": [0, -50],
-	"camera_girlfriend": [0, 0],
-	"camera_speed": 9
+	"boyfriend": [
+		800,
+		100
+	],
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		650,
+		450
+	],
+	"defaultZoom": 0.6,
+	"camera_speed": 9,
+	"directory": "",
+	"opponent": [
+		120,
+		185
+	],
+	"camera_opponent": [
+		-150,
+		-200
+	],
+	"hide_girlfriend": true
 }
