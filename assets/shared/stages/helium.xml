@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage name="helium" zoom="0.9">
+	<sprite x="-1811.38556886676" sprite="stages/helium" y="-2256.67066376617" type="none" scale="0.7" name="bg"/>
+	<girlfriend/>
+	<dad/>
+	<boyfriend/>
+</stage>

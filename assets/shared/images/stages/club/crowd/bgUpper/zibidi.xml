@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="zibidi.png">
+	
+	<SubTexture name="idle0000" x="1109" y="0" width="311" height="574" frameX="0" frameY="-7" frameWidth="311" frameHeight="581"/>
+	<SubTexture name="idle0001" x="1109" y="576" width="308" height="574" frameX="-1" frameY="-6" frameWidth="311" frameHeight="581"/>
+	<SubTexture name="idle0002" x="0" y="1324" width="306" height="574" frameX="-2" frameY="-3" frameWidth="311" frameHeight="581"/>
+	<SubTexture name="idle0003" x="737" y="646" width="306" height="576" frameX="-2" frameY="-1" frameWidth="311" frameHeight="581"/>
+	<SubTexture name="idle0004" x="377" y="658" width="306" height="576" frameX="-2" frameY="0" frameWidth="311" frameHeight="581"/>
+	
+	<SubTexture name="cheerLeft0000" x="623" y="1793" width="307" height="559" frameX="0" frameY="-10" frameWidth="323" frameHeight="569"/>
+	<SubTexture name="cheerLeft0001" x="1726" y="569" width="302" height="562" frameX="-2" frameY="-7" frameWidth="323" frameHeight="569"/>
+	<SubTexture name="cheerLeft0002" x="1422" y="569" width="302" height="564" frameX="-5" frameY="-5" frameWidth="323" frameHeight="569"/>
+	<SubTexture name="cheerLeft0003" x="1045" y="1152" width="305" height="568" frameX="-7" frameY="-1" frameWidth="323" frameHeight="569"/>
+	
+	<SubTexture name="cheerRight0000" x="312" y="1895" width="309" height="559" frameX="-14" frameY="-10" frameWidth="323" frameHeight="569"/>
+	<SubTexture name="cheerRight0001" x="1856" y="0" width="307" height="562" frameX="-12" frameY="-7" frameWidth="323" frameHeight="569"/>
+	<SubTexture name="cheerRight0002" x="308" y="1324" width="302" height="569" frameX="-12" frameY="0" frameWidth="323" frameHeight="569"/>
+	<SubTexture name="cheerRight0003" x="685" y="1224" width="302" height="567" frameX="-8" frameY="-2" frameWidth="323" frameHeight="569"/>
+	
+	<SubTexture name="slap0000" x="2030" y="564" width="324" height="542" frameX="-141" frameY="-125" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0001" x="2030" y="564" width="324" height="542" frameX="-141" frameY="-125" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0002" x="2030" y="564" width="324" height="542" frameX="-141" frameY="-125" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0003" x="1352" y="1700" width="310" height="552" frameX="-143" frameY="-115" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0004" x="1352" y="1700" width="310" height="552" frameX="-143" frameY="-115" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0005" x="932" y="1793" width="306" height="557" frameX="-143" frameY="-110" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0006" x="0" y="0" width="360" height="667" frameX="-79" frameY="0" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0007" x="0" y="0" width="360" height="667" frameX="-79" frameY="0" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0008" x="362" y="0" width="373" height="656" frameX="-73" frameY="-11" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0009" x="362" y="0" width="373" height="656" frameX="-73" frameY="-11" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0010" x="362" y="0" width="373" height="656" frameX="-73" frameY="-11" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0011" x="0" y="669" width="375" height="653" frameX="-73" frameY="-14" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0012" x="0" y="669" width="375" height="653" frameX="-73" frameY="-14" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0013" x="737" y="0" width="370" height="644" frameX="-68" frameY="-23" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0014" x="737" y="0" width="370" height="644" frameX="-68" frameY="-23" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0015" x="1422" y="0" width="432" height="567" frameX="0" frameY="-100" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0016" x="1731" y="1133" width="368" height="561" frameX="-169" frameY="-106" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0017" x="1731" y="1133" width="368" height="561" frameX="-169" frameY="-106" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0018" x="2165" y="0" width="376" height="548" frameX="-168" frameY="-119" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0019" x="2165" y="0" width="376" height="548" frameX="-168" frameY="-119" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0020" x="2101" y="1108" width="350" height="536" frameX="-161" frameY="-131" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0021" x="2101" y="1108" width="350" height="536" frameX="-161" frameY="-131" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0022" x="2101" y="1108" width="350" height="536" frameX="-161" frameY="-131" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0023" x="1731" y="1696" width="311" height="554" frameX="-127" frameY="-114" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0024" x="1731" y="1696" width="311" height="554" frameX="-127" frameY="-114" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0025" x="1419" y="1135" width="310" height="563" frameX="-139" frameY="-104" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0026" x="1419" y="1135" width="310" height="563" frameX="-139" frameY="-104" frameWidth="544" frameHeight="668"/>
+	<SubTexture name="slap0027" x="0" y="1900" width="310" height="560" frameX="-136" frameY="-108" frameWidth="544" frameHeight="668"/>
+	
+</TextureAtlas>

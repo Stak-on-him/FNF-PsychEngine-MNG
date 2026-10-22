@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spacey.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="spacey0000" x="10" y="10" width="424" height="401"/>
+	<SubTexture name="spacey0001" x="10" y="10" width="424" height="401"/>
+	<SubTexture name="spacey0002" x="464" y="10" width="424" height="401"/>
+	<SubTexture name="spacey0003" x="464" y="10" width="424" height="401"/>
+	<SubTexture name="spacey0004" x="918" y="10" width="424" height="401"/>
+	<SubTexture name="spacey0005" x="918" y="10" width="424" height="401"/>
+	<SubTexture name="spacey0006" x="918" y="10" width="424" height="401"/>
+	<SubTexture name="spacey0007" x="918" y="10" width="424" height="401"/>
+	<SubTexture name="spacey0008" x="918" y="10" width="424" height="401"/>
+	<SubTexture name="spacey0009" x="918" y="10" width="424" height="401"/>
+	<SubTexture name="spacey0010" x="918" y="10" width="424" height="401"/>
+	<SubTexture name="spacey0011" x="918" y="10" width="424" height="401"/>
+	<SubTexture name="spacey0012" x="918" y="10" width="424" height="401"/>
+	<SubTexture name="spacey0013" x="918" y="10" width="424" height="401"/>
+	<SubTexture name="spacey cheer0000" x="1372" y="10" width="402" height="374"/>
+	<SubTexture name="spacey cheer0001" x="1372" y="10" width="402" height="374"/>
+	<SubTexture name="spacey cheer0002" x="1372" y="10" width="402" height="374"/>
+	<SubTexture name="spacey cheer0003" x="1372" y="10" width="402" height="374"/>
+	<SubTexture name="spacey cheer0004" x="1372" y="10" width="402" height="374"/>
+	<SubTexture name="spacey cheer0005" x="1372" y="10" width="402" height="374"/>
+	<SubTexture name="spacey cheer0006" x="1372" y="10" width="402" height="374"/>
+	<SubTexture name="spacey cheer0007" x="1372" y="10" width="402" height="374"/>
+	<SubTexture name="spacey cheer0008" x="1372" y="10" width="402" height="374"/>
+	<SubTexture name="spacey cheer0009" x="10" y="441" width="402" height="374"/>
+	<SubTexture name="spacey cheer0010" x="10" y="441" width="402" height="374"/>
+	<SubTexture name="spacey cheer0011" x="10" y="441" width="402" height="374"/>
+	<SubTexture name="spacey cheer0012" x="10" y="441" width="402" height="374"/>
+	<SubTexture name="spacey cheer0013" x="10" y="441" width="402" height="374"/>
+	<SubTexture name="spacey cheer0014" x="10" y="441" width="402" height="374"/>
+	<SubTexture name="spacey cheer0015" x="10" y="441" width="402" height="374"/>
+	<SubTexture name="spacey cheer0016" x="10" y="441" width="402" height="374"/>
+	<SubTexture name="spacey cheer0017" x="10" y="441" width="402" height="374"/>
+	<SubTexture name="spacey shocked0000" x="442" y="441" width="362" height="354"/>
+	<SubTexture name="spacey shocked0001" x="442" y="441" width="362" height="354"/>
+	<SubTexture name="spacey shocked0002" x="834" y="441" width="362" height="354"/>
+	<SubTexture name="spacey shocked0003" x="834" y="441" width="362" height="354"/>
+	<SubTexture name="spacey wtf0000" x="1226" y="441" width="433" height="366"/>
+	<SubTexture name="spacey wtf0001" x="1226" y="441" width="433" height="366"/>
+	<SubTexture name="spacey wtf0002" x="10" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0003" x="10" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0004" x="473" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0005" x="473" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0006" x="936" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0007" x="936" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0008" x="936" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0009" x="936" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0010" x="936" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0011" x="936" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0012" x="936" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0013" x="936" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0014" x="936" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0015" x="936" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0016" x="936" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0017" x="936" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0018" x="936" y="845" width="433" height="366"/>
+	<SubTexture name="spacey wtf0019" x="936" y="845" width="433" height="366"/>
+</TextureAtlas>

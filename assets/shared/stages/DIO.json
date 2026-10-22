@@ -1,0 +1,41 @@
+{
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "gf",
+		"dad": "dad"
+	},
+	"boyfriend": [
+		810,
+		185
+	],
+	"isPixelStage": false,
+	"girlfriend": [
+		500,
+		140
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"defaultZoom": 0.6,
+	"directory": "",
+	"opponent": [
+		-83,
+		186
+	],
+	"camera_opponent": [
+		-100,
+		0
+	]
+}

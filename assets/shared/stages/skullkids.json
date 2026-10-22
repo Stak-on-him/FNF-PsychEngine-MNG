@@ -1,0 +1,9 @@
+{
+    "directory": "bckrom",
+    "defaultZoom": 0.55,
+    "isPixelStage": false,
+
+    "boyfriend": [1000, 100],
+    "girlfriend": [505, 140],
+    "opponent": [50, 120]
+}

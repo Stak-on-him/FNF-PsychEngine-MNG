@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lily.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="lily0000" x="10" y="10" width="461" height="466"/>
+	<SubTexture name="lily0001" x="10" y="10" width="461" height="466"/>
+	<SubTexture name="lily0002" x="501" y="10" width="461" height="466"/>
+	<SubTexture name="lily0003" x="501" y="10" width="461" height="466"/>
+	<SubTexture name="lily0004" x="992" y="10" width="461" height="466"/>
+	<SubTexture name="lily0005" x="992" y="10" width="461" height="466"/>
+	<SubTexture name="lily0006" x="1483" y="10" width="461" height="466"/>
+	<SubTexture name="lily0007" x="1483" y="10" width="461" height="466"/>
+	<SubTexture name="lily0008" x="1483" y="10" width="461" height="466"/>
+	<SubTexture name="lily0009" x="1483" y="10" width="461" height="466"/>
+	<SubTexture name="lily0010" x="1483" y="10" width="461" height="466"/>
+	<SubTexture name="lily0011" x="1483" y="10" width="461" height="466"/>
+	<SubTexture name="lily0012" x="1483" y="10" width="461" height="466"/>
+	<SubTexture name="lily0013" x="1483" y="10" width="461" height="466"/>
+	<SubTexture name="lily cheer0000" x="10" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0001" x="10" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0002" x="10" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0003" x="10" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0004" x="10" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0005" x="10" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0006" x="10" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0007" x="10" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0008" x="10" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0009" x="491" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0010" x="491" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0011" x="491" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0012" x="491" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0013" x="491" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0014" x="491" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0015" x="491" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0016" x="491" y="506" width="451" height="374"/>
+	<SubTexture name="lily cheer0017" x="491" y="506" width="451" height="374"/>
+	<SubTexture name="lily shocked0000" x="972" y="506" width="409" height="413"/>
+	<SubTexture name="lily shocked0001" x="972" y="506" width="409" height="413"/>
+	<SubTexture name="lily shocked0002" x="1411" y="506" width="409" height="413"/>
+	<SubTexture name="lily shocked0003" x="1411" y="506" width="409" height="413"/>
+	<SubTexture name="lily shocked0004" x="10" y="949" width="409" height="413"/>
+	<SubTexture name="lily shocked0005" x="10" y="949" width="409" height="413"/>
+	<SubTexture name="lily shocked0006" x="449" y="949" width="409" height="413"/>
+	<SubTexture name="lily shocked0007" x="449" y="949" width="409" height="413"/>
+	<SubTexture name="lily shocked0008" x="449" y="949" width="409" height="413"/>
+	<SubTexture name="lily shocked0009" x="449" y="949" width="409" height="413"/>
+	<SubTexture name="lily shocked0010" x="449" y="949" width="409" height="413"/>
+	<SubTexture name="lily shocked0011" x="449" y="949" width="409" height="413"/>
+	<SubTexture name="lily shocked0012" x="449" y="949" width="409" height="413"/>
+	<SubTexture name="lily shocked0013" x="449" y="949" width="409" height="413"/>
+	<SubTexture name="lily wtf0000" x="888" y="949" width="431" height="655"/>
+	<SubTexture name="lily wtf0001" x="888" y="949" width="431" height="655"/>
+	<SubTexture name="lily wtf0002" x="1349" y="949" width="431" height="655"/>
+	<SubTexture name="lily wtf0003" x="10" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0004" x="471" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0005" x="932" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0006" x="932" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0007" x="932" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0008" x="1393" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0009" x="1393" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0010" x="1393" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0011" x="1393" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0012" x="1393" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0013" x="1393" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0014" x="1393" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0015" x="1393" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0016" x="1393" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0017" x="1393" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0018" x="1393" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0019" x="1393" y="1634" width="431" height="655"/>
+	<SubTexture name="lily wtf0020" x="1393" y="1634" width="431" height="655"/>
+</TextureAtlas>

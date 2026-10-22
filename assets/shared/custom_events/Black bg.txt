@@ -1,2 +1,0 @@
-Blacks out background, leaves characters onscreen
-

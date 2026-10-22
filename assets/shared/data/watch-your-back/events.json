@@ -1,0 +1,1880 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Cinematics (No HUD)", "0.2", "400"],
+				["Cam_Zoom_Tween", "1", "0.2"],
+				["Set Shader", "vhs", "game"]
+			]
+		],
+		[
+			120,
+			[
+				["Cinematics (No HUD)", "8", "0"],
+				["Cam_Zoom_Tween", "0.6", "7"]
+			]
+		],
+		[
+			1440,
+			[
+				["BlackScreen", "Add", "game"],
+				["Text1", "MNG TEAM", ""]
+			]
+		],
+		[
+			1920,
+			[
+				["BlackScreen", "Remove", "game"],
+				["Text1", "", ""]
+			]
+		],
+		[
+			3960,
+			[
+				["BlackScreen", "Add", "game"],
+				["Text1", "LEGRANDGARIO et Sim01", ""]
+			]
+		],
+		[
+			5400,
+			[
+				["BlackScreen", "Remove", "game"],
+				["Text1", "", ""]
+			]
+		],
+		[
+			7800,
+			[
+				["Black Flash", "3", ""],
+				["Cinematics (No HUD)", "0.2", "0"],
+				["Set Shader", "shit", "game"],
+				["Cam_Zoom_Tween", "1", "15"]
+			]
+		],
+		[
+			9960,
+			[
+				["BlackScreen", "Add", "game"],
+				["Text1", "Watch ur Back", ""]
+			]
+		],
+		[
+			10920,
+			[
+				["BlackScreen", "Remove", "game"],
+				["Text1", "", ""]
+			]
+		],
+		[
+			14640,
+			[
+				["Cinematics (With HUD)", "2", "380"],
+				["BlackScreen", "Add", "game"],
+				["Text1", "Till", ""],
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			15120,
+			[
+				["Text1", "Till it", ""],
+				["BlackScreen", "Remove", "game"],
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			15600,
+			[
+				["Text1", "Hurts", ""],
+				["BlackScreen", "Add", "game"],
+				["Cam_Zoom_Tween", "1", "0.2"]
+			]
+		],
+		[
+			15720,
+			[
+				["Cinematics (With HUD)", "0.2", "90"],
+				["Camera Flash", "1", "1"],
+				["Cam_Zoom_Tween", "0.6", "0.2"],
+				["BlackScreen", "Remove", "game"],
+				["Text1", "", ""],
+				["Add Camera Zoom", "0.1", ""],
+				["Set Shader", "godrays", "game"]
+			]
+		],
+		[
+			16320,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			17040,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			18480,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			19440,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			20160,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			20880,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			21000,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"],
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			21240,
+			[
+				["Cam_Zoom_Tween", "1", "0.2"],
+				["Cinematics (With HUD)", "0.2", "150"]
+			]
+		],
+		[
+			21480,
+			[
+				["Cam_Zoom_Tween", "0.6", "0.2"],
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			22440,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			22680,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			22800,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.5"],
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			22920,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			23040,
+			[
+				["Cam_Zoom_Tween", "1", "0.5"],
+				["Cinematics (With HUD)", "0.2", "150"]
+			]
+		],
+		[
+			23160,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			23280,
+			[
+				["Cam_Zoom_Tween", "0.6", "0.5"],
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			23400,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			23640,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			24120,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			24240,
+			[
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			24840,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			26280,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			26520,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			27240,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			27840,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			28560,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			30000,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			30360,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			30600,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			30840,
+			[
+				["Cam_Zoom_Tween", "1", "0.2"],
+				["Set Shader", "glitch", "game"]
+			]
+		],
+		[
+			30960,
+			[
+				["Camera Flash", "1", ""]
+			]
+		],
+		[
+			31080,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			31440,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			31560,
+			[
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			31680,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			32040,
+			[
+				["Set Shader", "godrays", "game"]
+			]
+		],
+		[
+			32400,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			33000,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			33480,
+			[
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			33960,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			34200,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			34800,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			34920,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			35400,
+			[
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			35520,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			36240,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			36720,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			37200,
+			[
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			37800,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			38040,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			38400,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			38760,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cam_Zoom_Tween", "0.6", ""]
+			]
+		],
+		[
+			39000,
+			[
+				["Cam_Zoom_Tween", "0.65", ""]
+			]
+		],
+		[
+			39120,
+			[
+				["Cam_Zoom_Tween", "0.7", ""]
+			]
+		],
+		[
+			39240,
+			[
+				["Cam_Zoom_Tween", "0.8", ""]
+			]
+		],
+		[
+			39480,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			39600,
+			[
+				["Cam_Zoom_Tween", "0.9", "0.2"]
+			]
+		],
+		[
+			40080,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cam_Zoom_Tween", "1", "0.2"]
+			]
+		],
+		[
+			40440,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			40680,
+			[
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			41160,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			41520,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			41880,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			42480,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			43080,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			43320,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cam_Zoom_Tween", "0.85", "0.2"]
+			]
+		],
+		[
+			43560,
+			[
+				["Cam_Zoom_Tween", "0.9", "0.2"]
+			]
+		],
+		[
+			43800,
+			[
+				["Cam_Zoom_Tween", "0.95", "0.2"]
+			]
+		],
+		[
+			44040,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cam_Zoom_Tween", "1", "0.2"]
+			]
+		],
+		[
+			44280,
+			[
+				["Cam_Zoom_Tween", "1.1", "0.2"]
+			]
+		],
+		[
+			44520,
+			[
+				["Cam_Zoom_Tween", "0.5", "0.2"],
+				["Cinematics (With HUD)", "0.2", "0"],
+				["Set Shader", "KornF", "game"],
+				["Text", "Full", ""],
+				["Black Flash", "1", ""]
+			]
+		],
+		[
+			44949,
+			[
+				["Text", "up", "game"]
+			]
+		],
+		[
+			45177,
+			[
+				["Text", "the", ""]
+			]
+		],
+		[
+			45429,
+			[
+				["Text", "drugs", ""]
+			]
+		],
+		[
+			45888,
+			[
+				["Text", "Mike", ""]
+			]
+		],
+		[
+			46320,
+			[
+				["Text", "", ""],
+				["Cam_Zoom_Tween", "0.7", "0.2"]
+			]
+		],
+		[
+			46440,
+			[
+				["Camera Flash", "0.7", "0.2"],
+				["Add Camera Zoom", "0.1", ""],
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			47040,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			47160,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			47760,
+			[
+				["Cam_Zoom_Tween", "1", "0.2"]
+			]
+		],
+		[
+			47880,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			48360,
+			[
+				["Text", "Pull", ""]
+			]
+		],
+		[
+			48840,
+			[
+				["Text", "up", ""]
+			]
+		],
+		[
+			49080,
+			[
+				["Text", "the", ""]
+			]
+		],
+		[
+			49320,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Text", "drugs", ""]
+			]
+		],
+		[
+			49560,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			49800,
+			[
+				["Text", "Mike", ""]
+			]
+		],
+		[
+			50160,
+			[
+				["Text", "", ""]
+			]
+		],
+		[
+			50280,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"],
+				["Add Camera Zoom", "0.1", ""],
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			51000,
+			[
+				["Cam_Zoom_Tween", "0.7", "0.2"],
+				["Cinematics (With HUD)", "0.2", "90"],
+				["Cam_Zoom_Tween", "0.7", "0.2"]
+			]
+		],
+		[
+			51720,
+			[
+				["Cam_Zoom_Tween", "0.6", "0.2"],
+				["Add Camera Zoom", "0.1", ""],
+				["Cinematics (With HUD)", "0.2", "0"]
+			]
+		],
+		[
+			52200,
+			[
+				["Text", "Pull", ""]
+			]
+		],
+		[
+			52680,
+			[
+				["Text", "up", ""]
+			]
+		],
+		[
+			52920,
+			[
+				["Text", "the", ""]
+			]
+		],
+		[
+			53160,
+			[
+				["Text", "cham", ""]
+			]
+		],
+		[
+			53400,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			53640,
+			[
+				["Text", "champagne", ""]
+			]
+		],
+		[
+			53760,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			54000,
+			[
+				["Text", "", ""]
+			]
+		],
+		[
+			54120,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Camera Flash", "1", ""],
+				["Set Shader", "godrays", "game"]
+			]
+		],
+		[
+			54840,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			55560,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			56880,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			57240,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			57840,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			58560,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			59280,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			60720,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			61080,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			61440,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			61800,
+			[
+				["Cam_Zoom_Tween", "0.4", "1"],
+				["badapplelol", "a", "1"],
+				["Cinematics (With HUD)", "0.2", "90"],
+				["Toggle Trail", "1", "1"]
+			]
+		],
+		[
+			62040,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			62280,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			62520,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			62760,
+			[
+				["Cinematics (With HUD)", "0.2", "110"],
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			63240,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			64320,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			64560,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			64680,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			64800,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			65040,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			65280,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			65640,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			65880,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			66120,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			66360,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			66600,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			66660,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			67080,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			68280,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			68520,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			68760,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			69000,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			69120,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			69240,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			69480,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			69720,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			69960,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			70200,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			70320,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			70440,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			70920,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			71640,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			71880,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			72120,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			72360,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			72480,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			72720,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			72840,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			72960,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			73320,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			73560,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			73740,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			73800,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			74040,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			74160,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			74280,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			74760,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			75240,
+			[
+				["Cinematics (With HUD)", "0.2", "150"],
+				["Cam_Zoom_Tween", "1", "0.2"],
+				["badapplelol", "b", "2"],
+				["Toggle Trail", "0", "0"]
+			]
+		],
+		[
+			75480,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			75720,
+			[
+				["Cinematics (With HUD)", "0.2", "180"]
+			]
+		],
+		[
+			75960,
+			[
+				["Cinematics (With HUD)", "0.2", "150"]
+			]
+		],
+		[
+			76200,
+			[
+				["Cinematics (With HUD)", "0.2", "180"]
+			]
+		],
+		[
+			76404,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			76680,
+			[
+				["Cinematics (With HUD)", "0.2", "180"]
+			]
+		],
+		[
+			76872,
+			[
+				["Cinematics (With HUD)", "0.2", "150"]
+			]
+		],
+		[
+			77160,
+			[
+				["Camera Flash", "1", ""],
+				["Cinematics (With HUD)", "0.2", "110"],
+				["Add Camera Zoom", "0.1", ""],
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			77520,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			77880,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			78600,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			79920,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			80280,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			81000,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			81720,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			82440,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			82680,
+			[
+				["Cam_Zoom_Tween", "1", "0.2"]
+			]
+		],
+		[
+			82920,
+			[
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			83880,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			84120,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			84360,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			84480,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			84600,
+			[
+				["Cam_Zoom_Tween", "1", "0.2"]
+			]
+		],
+		[
+			84840,
+			[
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			85560,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			86280,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			87600,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			87960,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			88680,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			89400,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			90000,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			91560,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			91800,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			92160,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["badapplelol", "a", "1"],
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			92760,
+			[
+				["Cam_Zoom_Tween", "0.4", "1"]
+			]
+		],
+		[
+			93000,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			93240,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			93480,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			93669,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			93960,
+			[
+				["Cinematics (With HUD)", "0.2", "150"]
+			]
+		],
+		[
+			94080,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			94440,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			94680,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			94920,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			95160,
+			[
+				["Cinematics (With HUD)", "0.2", "150"]
+			]
+		],
+		[
+			95400,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			95640,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			95880,
+			[
+				["Cinematics (With HUD)", "0.2", "150"],
+				["Cam_Zoom_Tween", "1", "0.2"]
+			]
+		],
+		[
+			96120,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			96360,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["badapplelol", "b", "1"],
+				["Camera Flash", "1", ""],
+				["Cinematics (With HUD)", "0.2", "0"],
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			97080,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			97800,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			99240,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			99480,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			99840,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			100200,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			100920,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			101640,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			102960,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			103320,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			104040,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			104760,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			105480,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			106200,
+			[
+				["Cinematics (With HUD)", "1", "130"]
+			]
+		],
+		[
+			106680,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			107880,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Camera Flash", "1", ""],
+				["Cinematics (With HUD)", "0.2", "0"],
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			108600,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			109320,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			110694,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			111000,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			111600,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			112440,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			113160,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			114546,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			114840,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			115200,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			115560,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			116280,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			117000,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			117360,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			117840,
+			[
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			118440,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			118680,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			119280,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			119760,
+			[
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			120120,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			120840,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			121269,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"]
+			]
+		],
+		[
+			121680,
+			[
+				["Cam_Zoom_Tween", "0.6", "0.2"]
+			]
+		],
+		[
+			122160,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			122520,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			122880,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			123240,
+			[
+				["Cam_Zoom_Tween", "0.8", "0.2"],
+				["Black Flash", "1", ""],
+				["Set Shader", "vcr", "game"],
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			123480,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			123720,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			123960,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			124200,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			124680,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			125760,
+			[
+				["Cinematics (With HUD)", "0.2", "90"],
+				["Cam_Zoom_Tween", "1", "0.2"]
+			]
+		],
+		[
+			126120,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			126240,
+			[
+				["Cinematics (With HUD)", "0.2", "130"]
+			]
+		],
+		[
+			126480,
+			[
+				["Cinematics (With HUD)", "0.2", "110"]
+			]
+		],
+		[
+			126645,
+			[
+				["Cinematics (With HUD)", "0.2", "150"]
+			]
+		],
+		[
+			127080,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cinematics (With HUD)", "0.2", "90"],
+				["Set Shader", "godrays", "game"],
+				["Cam_Zoom_Tween", "0.6", "0.2"],
+				["Camera Flash", "1", ""]
+			]
+		],
+		[
+			127800,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			128520,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			129840,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			130200,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			130560,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			130920,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			131640,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			132360,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			133800,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			134040,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			134760,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cinematics (With HUD)", "5", "130"]
+			]
+		],
+		[
+			135480,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			136200,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			137760,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			138000,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			138360,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			138720,
+			[
+				["Cinematics (With HUD)", "0.2", "90"],
+				["Cam_Zoom_Tween", "0.6", "0.2"],
+				["Black Flash", "1", ""],
+				["Set Shader", "monitor", "game"]
+			]
+		],
+		[
+			139680,
+			[
+				["Add Camera Zoom", "0.1", ""],
+				["Cinematics (With HUD)", "6", "350"]
+			]
+		],
+		[
+			141600,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			143640,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		],
+		[
+			145560,
+			[
+				["Add Camera Zoom", "0.1", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

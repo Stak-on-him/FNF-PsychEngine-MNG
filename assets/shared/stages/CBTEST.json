@@ -1,0 +1,75 @@
+{
+	"camera_boyfriend": [
+		-405,
+		-100
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "23MB",
+		"dad": "Gemroz-op",
+		"gf": "none"
+	},
+	"boyfriend": [
+		677,
+		104
+	],
+	"stageUI": "",
+	"girlfriend": [
+		307,
+		232
+	],
+	"defaultZoom": 0.68,
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"x": -521,
+			"y": -159,
+			"scale": [
+				2.15,
+				2.05
+			],
+			"image": "stages/SoeurBG",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Chicaetbonnie",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.8,
+			"type": "sprite"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		600,
+		0
+	],
+	"opponent": [
+		43,
+		157
+	],
+	"directory": "",
+	"camera_speed": 0.8,
+	"hide_girlfriend": true,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

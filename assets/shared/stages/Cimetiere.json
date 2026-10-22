@@ -1,0 +1,75 @@
+{
+	"camera_boyfriend": [
+		-55,
+		-55
+	],
+	"_editorMeta": {
+		"boyfriend": "23MB",
+		"gf": "none",
+		"dad": "23MB"
+	},
+	"preload": {
+		"images/stage_light": 2,
+		"images/stagecurtains": 2,
+		"images/stagefront": 3,
+		"images/stageback": 3
+	},
+	"girlfriend": [
+		400,
+		130
+	],
+	"stageUI": "",
+	"boyfriend": [
+		943,
+		97
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.7,
+	"objects": [
+		{
+			"x": -449,
+			"y": -322,
+			"scale": [
+				2.25,
+				2
+			],
+			"image": "stages/cimetiere",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_speed": 1,
+	"directory": "week1",
+	"opponent": [
+		100,
+		100
+	],
+	"camera_opponent": [
+		-400,
+		-50
+	],
+	"hide_girlfriend": false
+}

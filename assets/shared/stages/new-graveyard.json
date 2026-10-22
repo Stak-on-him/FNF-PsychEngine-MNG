@@ -1,0 +1,9 @@
+{
+    "directory": "bg/graveyard",
+    "defaultZoom": 0.5,
+    "isPixelStage": false,
+
+    "boyfriend": [1550, 150],
+    "girlfriend": [405, 140],
+    "opponent": [550, 140]
+}

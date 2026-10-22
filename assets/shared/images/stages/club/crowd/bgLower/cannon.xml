@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="cannon.png">
+	
+	<SubTexture name="idle0000" x="0" y="0" width="488" height="929" frameX="0" frameY="-19" frameWidth="488" frameHeight="948"/>
+	<SubTexture name="idle0001" x="490" y="0" width="478" height="937" frameX="-4" frameY="-11" frameWidth="488" frameHeight="948"/>
+	<SubTexture name="idle0002" x="970" y="0" width="474" height="945" frameX="-7" frameY="-3" frameWidth="488" frameHeight="948"/>
+	<SubTexture name="idle0003" x="1446" y="0" width="474" height="948" frameX="-7" frameY="0" frameWidth="488" frameHeight="948"/>
+	
+	<SubTexture name="cheer0000" x="3808" y="0" width="593" height="1085" frameX="-7" frameY="0" frameWidth="643" frameHeight="1086"/>
+	<SubTexture name="cheer0001" x="3202" y="0" width="604" height="1078" frameX="-6" frameY="-6" frameWidth="643" frameHeight="1086"/>
+	<SubTexture name="cheer0002" x="2567" y="0" width="633" height="974" frameX="-4" frameY="-112" frameWidth="643" frameHeight="1086"/>
+	<SubTexture name="cheer0003" x="1922" y="0" width="643" height="971" frameX="0" frameY="-115" frameWidth="643" frameHeight="1086"/>
+	
+</TextureAtlas>

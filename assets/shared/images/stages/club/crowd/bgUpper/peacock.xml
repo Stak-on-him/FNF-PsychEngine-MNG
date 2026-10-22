@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="peacock.png">
+	
+	<SubTexture name="idle0000" x="2508" y="1267" width="295" height="484" frameX="0" frameY="-9" frameWidth="296" frameHeight="493"/>
+	<SubTexture name="idle0001" x="1800" y="2361" width="295" height="485" frameX="0" frameY="-7" frameWidth="296" frameHeight="493"/>
+	<SubTexture name="idle0002" x="2706" y="629" width="293" height="487" frameX="-1" frameY="-3" frameWidth="296" frameHeight="493"/>
+	<SubTexture name="idle0003" x="2507" y="1766" width="293" height="488" frameX="-1" frameY="-1" frameWidth="296" frameHeight="493"/>
+	<SubTexture name="idle0004" x="1505" y="2361" width="293" height="489" frameX="-1" frameY="0" frameWidth="296" frameHeight="493"/>
+	
+	<SubTexture name="cheerLeft0000" x="1205" y="2361" width="298" height="482" frameX="0" frameY="-15" frameWidth="311" frameHeight="497"/>
+	<SubTexture name="cheerLeft0001" x="603" y="2361" width="298" height="486" frameX="-1" frameY="-11" frameWidth="311" frameHeight="497"/>
+	<SubTexture name="cheerLeft0002" x="2207" y="1766" width="298" height="497" frameX="-5" frameY="0" frameWidth="311" frameHeight="497"/>
+	<SubTexture name="cheerLeft0003" x="2207" y="1267" width="299" height="497" frameX="-9" frameY="0" frameWidth="311" frameHeight="497"/>
+	
+	<SubTexture name="cheerRight0000" x="903" y="2361" width="300" height="482" frameX="-11" frameY="-15" frameWidth="311" frameHeight="497"/>
+	<SubTexture name="cheerRight0001" x="301" y="2361" width="300" height="485" frameX="-11" frameY="-12" frameWidth="311" frameHeight="497"/>
+	<SubTexture name="cheerRight0002" x="0" y="2361" width="299" height="490" frameX="-10" frameY="-7" frameWidth="311" frameHeight="497"/>
+	<SubTexture name="cheerRight0003" x="2207" y="2265" width="299" height="494" frameX="-5" frameY="-3" frameWidth="311" frameHeight="497"/>
+	
+	<SubTexture name="whar" x="2747" y="0" width="273" height="497" frameX="0" frameY="0" frameWidth="273" frameHeight="498"/>
+	
+	<SubTexture name="fling0000" x="2207" y="0" width="538" height="627" frameX="-5" frameY="0" frameWidth="543" frameHeight="638"/>
+	<SubTexture name="fling0001" x="2207" y="629" width="497" height="636" frameX="0" frameY="-1" frameWidth="543" frameHeight="638"/>
+	
+	<SubTexture name="hit_screen" x="0" y="0" width="2205" height="2359" frameX="-1" frameY="0" frameWidth="2211" frameHeight="2363"/>
+	
+</TextureAtlas>

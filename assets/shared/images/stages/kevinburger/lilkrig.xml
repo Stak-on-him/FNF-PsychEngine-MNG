@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lilkrig.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="krink0000" x="10" y="10" width="418" height="535"/>
+	<SubTexture name="krink0001" x="10" y="10" width="418" height="535"/>
+	<SubTexture name="krink0002" x="458" y="10" width="418" height="535"/>
+	<SubTexture name="krink0003" x="458" y="10" width="418" height="535"/>
+	<SubTexture name="krink0004" x="906" y="10" width="418" height="535"/>
+	<SubTexture name="krink0005" x="1354" y="10" width="418" height="535"/>
+	<SubTexture name="krink0006" x="10" y="575" width="418" height="535"/>
+	<SubTexture name="krink0007" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink0008" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink0009" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink0010" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink0011" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink0012" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink0013" x="906" y="575" width="418" height="535"/>
+	<SubTexture name="krink0014" x="906" y="575" width="418" height="535"/>
+	<SubTexture name="krink0015" x="1354" y="575" width="418" height="535"/>
+	<SubTexture name="krink0016" x="1354" y="575" width="418" height="535"/>
+	<SubTexture name="krink0017" x="10" y="1140" width="418" height="535"/>
+	<SubTexture name="krink0018" x="10" y="1140" width="418" height="535"/>
+	<SubTexture name="krink0019" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink0020" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink0021" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink0022" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink0023" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink0024" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink0025" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink0026" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink0027" x="458" y="575" width="418" height="535"/>
+	<SubTexture name="krink cheer0000" x="458" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0001" x="458" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0002" x="458" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0003" x="458" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0004" x="458" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0005" x="458" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0006" x="458" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0007" x="458" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0008" x="458" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0009" x="831" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0010" x="831" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0011" x="831" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0012" x="831" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0013" x="831" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0014" x="831" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0015" x="831" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0016" x="831" y="1140" width="343" height="378"/>
+	<SubTexture name="krink cheer0017" x="831" y="1140" width="343" height="378"/>
+	<SubTexture name="krink shocked0000" x="1204" y="1140" width="252" height="344"/>
+	<SubTexture name="krink shocked0001" x="1204" y="1140" width="252" height="344"/>
+	<SubTexture name="krink shocked0002" x="1486" y="1140" width="252" height="344"/>
+	<SubTexture name="krink shocked0003" x="1486" y="1140" width="252" height="344"/>
+	<SubTexture name="krink shocked0004" x="1768" y="1140" width="252" height="344"/>
+	<SubTexture name="krink shocked0005" x="1768" y="1140" width="252" height="344"/>
+	<SubTexture name="krink shocked0006" x="10" y="1705" width="252" height="344"/>
+	<SubTexture name="krink shocked0007" x="10" y="1705" width="252" height="344"/>
+	<SubTexture name="krink shocked0008" x="10" y="1705" width="252" height="344"/>
+	<SubTexture name="krink shocked0009" x="10" y="1705" width="252" height="344"/>
+	<SubTexture name="krink shocked0010" x="10" y="1705" width="252" height="344"/>
+	<SubTexture name="krink shocked0011" x="10" y="1705" width="252" height="344"/>
+	<SubTexture name="krink shocked0012" x="10" y="1705" width="252" height="344"/>
+	<SubTexture name="krink shocked0013" x="10" y="1705" width="252" height="344"/>
+	<SubTexture name="krink wtf0000" x="292" y="1705" width="291" height="486"/>
+	<SubTexture name="krink wtf0001" x="292" y="1705" width="291" height="486"/>
+	<SubTexture name="krink wtf0002" x="613" y="1705" width="291" height="486"/>
+	<SubTexture name="krink wtf0003" x="934" y="1705" width="291" height="486"/>
+	<SubTexture name="krink wtf0004" x="934" y="1705" width="291" height="486"/>
+	<SubTexture name="krink wtf0005" x="1255" y="1705" width="291" height="486"/>
+	<SubTexture name="krink wtf0006" x="1255" y="1705" width="291" height="486"/>
+	<SubTexture name="krink wtf0007" x="1576" y="1705" width="291" height="486"/>
+	<SubTexture name="krink wtf0008" x="1576" y="1705" width="291" height="486"/>
+	<SubTexture name="krink wtf0009" x="10" y="2221" width="291" height="486"/>
+	<SubTexture name="krink wtf0010" x="10" y="2221" width="291" height="486"/>
+	<SubTexture name="krink wtf0011" x="10" y="2221" width="291" height="486"/>
+	<SubTexture name="krink wtf0012" x="10" y="2221" width="291" height="486"/>
+	<SubTexture name="krink wtf0013" x="10" y="2221" width="291" height="486"/>
+	<SubTexture name="krink wtf0014" x="10" y="2221" width="291" height="486"/>
+	<SubTexture name="krink wtf0015" x="10" y="2221" width="291" height="486"/>
+	<SubTexture name="krink wtf0016" x="10" y="2221" width="291" height="486"/>
+</TextureAtlas>

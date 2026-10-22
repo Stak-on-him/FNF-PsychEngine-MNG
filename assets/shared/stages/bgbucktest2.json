@@ -1,0 +1,223 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "dad",
+		"gf": "gf"
+	},
+	"stageUI": "normal",
+	"boyfriend": [
+		1187,
+		186
+	],
+	"girlfriend": [
+		304,
+		157
+	],
+	"defaultZoom": 0.4,
+	"objects": [
+		{
+			"x": -4652,
+			"y": -1779,
+			"scale": [
+				6,
+				6
+			],
+			"image": "bg/gradientbg",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "WhiteBG",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.9,
+			"type": "sprite"
+		},
+		{
+			"x": -1321,
+			"y": -1485,
+			"scale": [
+				2,
+				2
+			],
+			"image": "stages/bgbucktest/tower",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 10,
+			"name": "tower",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -4235,
+			"y": -704,
+			"scale": [
+				2,
+				2
+			],
+			"image": "stages/city",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "city",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				0.85
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -2050,
+			"y": -1358,
+			"scale": [
+				1.35,
+				1.1
+			],
+			"image": "stages/floor",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Floor",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.95,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -2224,
+			"y": -1550,
+			"scale": [
+				3,
+				3
+			],
+			"image": "stages/bgbucktest/frontcliffs",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Rocks",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -2955,
+			"y": -1473,
+			"scale": [
+				0,
+				0
+			],
+			"image": "stages/bgbucktest/smoke",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Cloud",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -3475,
+			"y": -1816,
+			"scale": [
+				0,
+				0
+			],
+			"image": "stages/bgbucktest/smoke",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Cloud_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -4379,
+			"y": -2504,
+			"scale": [
+				6,
+				6
+			],
+			"image": "stages/bgbucktest/smoke",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Cloud_copy1_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.8,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"camera_speed": 1,
+	"directory": "",
+	"opponent": [
+		-156,
+		165
+	],
+	"camera_opponent": [
+		0,
+		0
+	],
+	"hide_girlfriend": false
+}

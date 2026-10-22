@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="krinqle.png">
+	
+	<SubTexture name="idle0000" x="2393" y="0" width="306" height="635" frameX="0" frameY="-9" frameWidth="309" frameHeight="644"/>
+	<SubTexture name="idle0001" x="2701" y="0" width="306" height="635" frameX="0" frameY="-8" frameWidth="309" frameHeight="644"/>
+	<SubTexture name="idle0002" x="3009" y="0" width="305" height="636" frameX="-1" frameY="-4" frameWidth="309" frameHeight="644"/>
+	<SubTexture name="idle0003" x="3316" y="0" width="307" height="638" frameX="-1" frameY="-1" frameWidth="309" frameHeight="644"/>
+	<SubTexture name="idle0004" x="3625" y="0" width="308" height="639" frameX="-1" frameY="0" frameWidth="309" frameHeight="644"/>
+	
+	<SubTexture name="cheerLeft0000" x="0" y="0" width="286" height="567" frameX="0" frameY="-26" frameWidth="331" frameHeight="594"/>
+	<SubTexture name="cheerLeft0001" x="288" y="0" width="291" height="573" frameX="-2" frameY="-20" frameWidth="331" frameHeight="594"/>
+	<SubTexture name="cheerLeft0002" x="1199" y="0" width="297" height="588" frameX="-8" frameY="-5" frameWidth="331" frameHeight="594"/>
+	<SubTexture name="cheerLeft0003" x="894" y="0" width="303" height="586" frameX="-12" frameY="-7" frameWidth="331" frameHeight="594"/>
+	
+	<SubTexture name="cheerRight0000" x="581" y="0" width="311" height="581" frameX="-20" frameY="-12" frameWidth="331" frameHeight="594"/>
+	<SubTexture name="cheerRight0001" x="1498" y="0" width="305" height="589" frameX="-16" frameY="-4" frameWidth="331" frameHeight="594"/>
+	<SubTexture name="cheerRight0002" x="1805" y="0" width="298" height="593" frameX="-14" frameY="0" frameWidth="331" frameHeight="594"/>
+	<SubTexture name="cheerRight0003" x="2105" y="0" width="286" height="593" frameX="-8" frameY="0" frameWidth="331" frameHeight="594"/>
+	
+</TextureAtlas>

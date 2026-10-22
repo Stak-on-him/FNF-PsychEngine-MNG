@@ -1,7 +1,7 @@
 {
 	"camera_boyfriend": [
 		0,
-		-250
+		0
 	],
 	"_editorMeta": {
 		"boyfriend": "23MB-pa",
@@ -63,7 +63,7 @@
 	],
 	"camera_opponent": [
 		-150,
-		-250
+		0
 	],
 	"hide_girlfriend": false
 }

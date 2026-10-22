@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="alien.png" width="3391" height="985">
+	
+	<SubTexture name="idle0000" x="0" y="0" width="447" height="963" frameX="0" frameY="-7" frameWidth="447" frameHeight="970"/>
+	<SubTexture name="idle0001" x="449" y="0" width="447" height="963" frameX="0" frameY="-4" frameWidth="447" frameHeight="970"/>
+	<SubTexture name="idle0002" x="898" y="0" width="447" height="963" frameX="0" frameY="-2" frameWidth="447" frameHeight="970"/>
+	<SubTexture name="idle0003" x="1347" y="0" width="446" height="963" frameX="-1" frameY="-1" frameWidth="447" frameHeight="970"/>
+	
+	<SubTexture name="cheer00000" x="1795" y="0" width="394" height="977" frameX="-7" frameY="-8" frameWidth="401" frameHeight="985"/>
+	<SubTexture name="cheer00001" x="2191" y="0" width="398" height="982" frameX="-2" frameY="-3" frameWidth="401" frameHeight="985"/>
+	<SubTexture name="cheer00002" x="2591" y="0" width="399" height="985" frameX="0" frameY="0" frameWidth="401" frameHeight="985"/>
+	<SubTexture name="cheer00003" x="2992" y="0" width="399" height="985" frameX="0" frameY="0" frameWidth="401" frameHeight="985"/>
+	
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="fgCrowd.png">
+	
+	<SubTexture name="idle" x="0" y="3600" width="4991" height="1670" frameX="0" frameY="-1" frameWidth="4992" frameHeight="1671"/>
+	
+	<SubTexture name="cheer0" x="0" y="0" width="5012" height="1832" frameX="-17" frameY="0" frameWidth="5029" frameHeight="1832"/>
+	
+	<SubTexture name="cheer1" x="0" y="1834" width="4998" height="1764" frameX="0" frameY="-2" frameWidth="5029" frameHeight="1832"/>
+	
+</TextureAtlas>

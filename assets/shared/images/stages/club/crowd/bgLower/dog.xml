@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="dog.png">
+	
+	<SubTexture name="idle0000" x="2718" y="0" width="460" height="253" frameX="-2" frameY="-5" frameWidth="465" frameHeight="258"/>
+	<SubTexture name="idle0001" x="3180" y="0" width="465" height="253" frameX="0" frameY="-5" frameWidth="465" frameHeight="258"/>
+	<SubTexture name="idle0002" x="4088" y="0" width="433" height="258" frameX="-18" frameY="0" frameWidth="465" frameHeight="258"/>
+	<SubTexture name="idle0003" x="3647" y="0" width="439" height="255" frameX="-15" frameY="-3" frameWidth="465" frameHeight="258"/>
+	
+	<SubTexture name="cheer0000" x="457" y="0" width="456" height="243" frameX="-6" frameY="-6" frameWidth="465" frameHeight="249"/>
+	<SubTexture name="cheer0001" x="0" y="0" width="455" height="242" frameX="-9" frameY="-7" frameWidth="465" frameHeight="249"/>
+	<SubTexture name="cheer0002" x="915" y="0" width="449" height="246" frameX="-11" frameY="0" frameWidth="465" frameHeight="249"/>
+	<SubTexture name="cheer0003" x="1366" y="0" width="453" height="247" frameX="-5" frameY="0" frameWidth="465" frameHeight="249"/>
+	<SubTexture name="cheer0004" x="1821" y="0" width="458" height="247" frameX="0" frameY="0" frameWidth="465" frameHeight="249"/>
+	<SubTexture name="cheer0005" x="2281" y="0" width="435" height="247" frameX="-23" frameY="0" frameWidth="465" frameHeight="249"/>
+	
+</TextureAtlas>

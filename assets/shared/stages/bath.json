@@ -1,0 +1,50 @@
+{
+	"objects": [
+		{
+			"x": -302,
+			"y": -61,
+			"scale": [
+				1.2,
+				1.2
+			],
+			"image": "bg/bckrom2",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"defaultZoom": 0.9,
+	"opponent": [
+		100,
+		120
+	],
+	"directory": "",
+	"girlfriend": [
+		405,
+		140
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		770,
+		140
+	]
+}

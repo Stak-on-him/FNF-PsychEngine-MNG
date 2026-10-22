@@ -1,0 +1,141 @@
+{
+	"camera_boyfriend": [
+		-55,
+		0
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "dad",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		1045,
+		157
+	],
+	"stageUI": "",
+	"girlfriend": [
+		328,
+		127
+	],
+	"defaultZoom": 0.35,
+	"objects": [
+		{
+			"x": -2226,
+			"y": -1329,
+			"scale": [
+				4,
+				3
+			],
+			"image": "stages/BackgroundExam",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "MainBG",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -3249,
+			"y": -3681,
+			"scale": [
+				5,
+				5
+			],
+			"image": "stages/bgbucktest/tower",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "tower",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.3,
+			"type": "sprite"
+		},
+		{
+			"x": -2333,
+			"y": -1112,
+			"scale": [
+				4.8,
+				5.1
+			],
+			"image": "stages/bgbucktest/smoke",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Clouds",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -4005,
+			"y": -3654,
+			"scale": [
+				5,
+				5
+			],
+			"image": "stages/bgbucktest/frontcliffs",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Rocks",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		-106,
+		129
+	],
+	"directory": "",
+	"camera_speed": 1.7,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

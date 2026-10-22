@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tvcat.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="tv head 20000" x="10" y="10" width="383" height="655"/>
+	<SubTexture name="tv head 20001" x="10" y="10" width="383" height="655"/>
+	<SubTexture name="tv head 20002" x="423" y="10" width="383" height="655"/>
+	<SubTexture name="tv head 20003" x="423" y="10" width="383" height="655"/>
+	<SubTexture name="tv head 20004" x="836" y="10" width="383" height="655"/>
+	<SubTexture name="tv head 20005" x="836" y="10" width="383" height="655"/>
+	<SubTexture name="tv head 20006" x="1249" y="10" width="383" height="655"/>
+	<SubTexture name="tv head 20007" x="1249" y="10" width="383" height="655"/>
+	<SubTexture name="tv head 20008" x="1249" y="10" width="383" height="655"/>
+	<SubTexture name="tv head 20009" x="1249" y="10" width="383" height="655"/>
+	<SubTexture name="tv head 20010" x="1249" y="10" width="383" height="655"/>
+	<SubTexture name="tv head 20011" x="1249" y="10" width="383" height="655"/>
+	<SubTexture name="tv head 20012" x="1249" y="10" width="383" height="655"/>
+	<SubTexture name="tv head 20013" x="1249" y="10" width="383" height="655"/>
+	<SubTexture name="tv head 2 cheer0000" x="10" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0001" x="10" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0002" x="10" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0003" x="10" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0004" x="10" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0005" x="10" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0006" x="10" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0007" x="10" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0008" x="10" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0009" x="507" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0010" x="507" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0011" x="507" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0012" x="507" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0013" x="507" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0014" x="507" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0015" x="507" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0016" x="507" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 cheer0017" x="507" y="695" width="467" height="610"/>
+	<SubTexture name="tv head 2 shocked0000" x="1004" y="695" width="349" height="606"/>
+	<SubTexture name="tv head 2 shocked0001" x="1004" y="695" width="349" height="606"/>
+	<SubTexture name="tv head 2 shocked0002" x="1383" y="695" width="349" height="606"/>
+	<SubTexture name="tv head 2 shocked0003" x="10" y="1335" width="349" height="606"/>
+	<SubTexture name="tv head 2 shocked0004" x="389" y="1335" width="349" height="606"/>
+	<SubTexture name="tv head 2 shocked0005" x="389" y="1335" width="349" height="606"/>
+	<SubTexture name="tv head 2 shocked0006" x="768" y="1335" width="349" height="606"/>
+	<SubTexture name="tv head 2 shocked0007" x="768" y="1335" width="349" height="606"/>
+	<SubTexture name="tv head 2 shocked0008" x="768" y="1335" width="349" height="606"/>
+	<SubTexture name="tv head 2 shocked0009" x="1147" y="1335" width="349" height="606"/>
+	<SubTexture name="tv head 2 shocked0010" x="1147" y="1335" width="349" height="606"/>
+	<SubTexture name="tv head 2 shocked0011" x="1147" y="1335" width="349" height="606"/>
+	<SubTexture name="tv head 2 shocked0012" x="768" y="1335" width="349" height="606"/>
+	<SubTexture name="tv head 2 shocked0013" x="768" y="1335" width="349" height="606"/>
+	<SubTexture name="tv head 2 wtf0000" x="1526" y="1335" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0001" x="10" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0002" x="1526" y="1335" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0003" x="10" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0004" x="397" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0005" x="397" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0006" x="784" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0007" x="784" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0008" x="1171" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0009" x="1171" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0010" x="1171" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0011" x="1171" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0012" x="1171" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0013" x="1171" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0014" x="1171" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0015" x="1171" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0016" x="1171" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0017" x="1171" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0018" x="1171" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0019" x="1171" y="1986" width="357" height="621"/>
+	<SubTexture name="tv head 2 wtf0020" x="1171" y="1986" width="357" height="621"/>
+</TextureAtlas>

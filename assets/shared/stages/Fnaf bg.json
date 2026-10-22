@@ -1,0 +1,75 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "23MB",
+		"dad": "Sim01-op",
+		"gf": "none"
+	},
+	"boyfriend": [
+		1078,
+		398
+	],
+	"stageUI": "",
+	"girlfriend": [
+		400,
+		130
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.7,
+	"objects": [
+		{
+			"x": -374,
+			"y": -284,
+			"scale": [
+				3,
+				3
+			],
+			"image": "stages/fnaf_bg",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"opponent": [
+		39,
+		383
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": true,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

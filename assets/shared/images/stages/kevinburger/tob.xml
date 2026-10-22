@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tob.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="doj0000" x="10" y="10" width="663" height="365"/>
+	<SubTexture name="doj0001" x="10" y="10" width="663" height="365"/>
+	<SubTexture name="doj0002" x="703" y="10" width="663" height="365"/>
+	<SubTexture name="doj0003" x="703" y="10" width="663" height="365"/>
+	<SubTexture name="doj0004" x="10" y="405" width="663" height="365"/>
+	<SubTexture name="doj0005" x="10" y="405" width="663" height="365"/>
+	<SubTexture name="doj0006" x="703" y="405" width="663" height="365"/>
+	<SubTexture name="doj0007" x="703" y="405" width="663" height="365"/>
+	<SubTexture name="doj0008" x="703" y="405" width="663" height="365"/>
+	<SubTexture name="doj0009" x="703" y="405" width="663" height="365"/>
+	<SubTexture name="doj0010" x="703" y="405" width="663" height="365"/>
+	<SubTexture name="doj0011" x="703" y="405" width="663" height="365"/>
+	<SubTexture name="doj0012" x="703" y="405" width="663" height="365"/>
+	<SubTexture name="doj0013" x="703" y="405" width="663" height="365"/>
+	<SubTexture name="doj cheer0000" x="1396" y="405" width="612" height="325"/>
+	<SubTexture name="doj cheer0001" x="1396" y="405" width="612" height="325"/>
+	<SubTexture name="doj cheer0002" x="1396" y="405" width="612" height="325"/>
+	<SubTexture name="doj cheer0003" x="1396" y="405" width="612" height="325"/>
+	<SubTexture name="doj cheer0004" x="1396" y="405" width="612" height="325"/>
+	<SubTexture name="doj cheer0005" x="1396" y="405" width="612" height="325"/>
+	<SubTexture name="doj cheer0006" x="1396" y="405" width="612" height="325"/>
+	<SubTexture name="doj cheer0007" x="1396" y="405" width="612" height="325"/>
+	<SubTexture name="doj cheer0008" x="1396" y="405" width="612" height="325"/>
+	<SubTexture name="doj cheer0009" x="10" y="800" width="612" height="325"/>
+	<SubTexture name="doj cheer0010" x="10" y="800" width="612" height="325"/>
+	<SubTexture name="doj cheer0011" x="10" y="800" width="612" height="325"/>
+	<SubTexture name="doj cheer0012" x="10" y="800" width="612" height="325"/>
+	<SubTexture name="doj cheer0013" x="10" y="800" width="612" height="325"/>
+	<SubTexture name="doj cheer0014" x="10" y="800" width="612" height="325"/>
+	<SubTexture name="doj cheer0015" x="10" y="800" width="612" height="325"/>
+	<SubTexture name="doj cheer0016" x="10" y="800" width="612" height="325"/>
+	<SubTexture name="doj cheer0017" x="10" y="800" width="612" height="325"/>
+	<SubTexture name="doj shocked0000" x="652" y="800" width="618" height="365"/>
+	<SubTexture name="doj shocked0001" x="652" y="800" width="618" height="365"/>
+	<SubTexture name="doj shocked0002" x="1300" y="800" width="618" height="365"/>
+	<SubTexture name="doj shocked0003" x="1300" y="800" width="618" height="365"/>
+	<SubTexture name="doj shocked0004" x="10" y="1195" width="618" height="365"/>
+	<SubTexture name="doj shocked0005" x="10" y="1195" width="618" height="365"/>
+	<SubTexture name="doj shocked0006" x="658" y="1195" width="618" height="365"/>
+	<SubTexture name="doj shocked0007" x="658" y="1195" width="618" height="365"/>
+	<SubTexture name="doj wtf0000" x="1306" y="1195" width="637" height="366"/>
+	<SubTexture name="doj wtf0001" x="1306" y="1195" width="637" height="366"/>
+	<SubTexture name="doj wtf0002" x="10" y="1591" width="637" height="366"/>
+	<SubTexture name="doj wtf0003" x="10" y="1591" width="637" height="366"/>
+	<SubTexture name="doj wtf0004" x="677" y="1591" width="637" height="366"/>
+	<SubTexture name="doj wtf0005" x="677" y="1591" width="637" height="366"/>
+	<SubTexture name="doj wtf0006" x="1344" y="1591" width="637" height="366"/>
+	<SubTexture name="doj wtf0007" x="1344" y="1591" width="637" height="366"/>
+	<SubTexture name="doj wtf0008" x="10" y="1987" width="637" height="366"/>
+	<SubTexture name="doj wtf0009" x="10" y="1987" width="637" height="366"/>
+	<SubTexture name="doj wtf0010" x="677" y="1987" width="637" height="366"/>
+	<SubTexture name="doj wtf0011" x="677" y="1987" width="637" height="366"/>
+	<SubTexture name="doj wtf0012" x="1344" y="1987" width="637" height="366"/>
+	<SubTexture name="doj wtf0013" x="1344" y="1987" width="637" height="366"/>
+	<SubTexture name="doj wtf0014" x="1344" y="1591" width="637" height="366"/>
+	<SubTexture name="doj wtf0015" x="1344" y="1591" width="637" height="366"/>
+	<SubTexture name="doj wtf0016" x="10" y="1987" width="637" height="366"/>
+	<SubTexture name="doj wtf0017" x="10" y="1987" width="637" height="366"/>
+	<SubTexture name="doj wtf0018" x="677" y="1987" width="637" height="366"/>
+	<SubTexture name="doj wtf0019" x="677" y="1987" width="637" height="366"/>
+	<SubTexture name="doj wtf0020" x="1344" y="1987" width="637" height="366"/>
+</TextureAtlas>

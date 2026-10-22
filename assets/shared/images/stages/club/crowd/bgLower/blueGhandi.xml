@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="blueGhandi.png">
+	
+	<SubTexture name="idle0000" x="0" y="0" width="276" height="462" frameX="0" frameY="-12" frameWidth="276" frameHeight="474"/>
+	<SubTexture name="idle0001" x="278" y="0" width="272" height="466" frameX="-2" frameY="-8" frameWidth="276" frameHeight="474"/>
+	<SubTexture name="idle0002" x="552" y="0" width="262" height="473" frameX="-10" frameY="-1" frameWidth="276" frameHeight="474"/>
+	<SubTexture name="idle0003" x="816" y="0" width="260" height="474" frameX="-12" frameY="0" frameWidth="276" frameHeight="474"/>
+	
+	<SubTexture name="cheerLeft0001" x="1078" y="0" width="294" height="477" frameX="0" frameY="-7" frameWidth="341" frameHeight="486"/>
+	<SubTexture name="cheerLeft0002" x="1665" y="0" width="289" height="482" frameX="-8" frameY="-2" frameWidth="341" frameHeight="486"/>
+	<SubTexture name="cheerLeft0003" x="1374" y="0" width="289" height="480" frameX="-8" frameY="-4" frameWidth="341" frameHeight="486"/>
+	
+	<SubTexture name="cheerRight0000" x="1956" y="0" width="318" height="484" frameX="-23" frameY="-2" frameWidth="341" frameHeight="486"/>
+	<SubTexture name="cheerRight0002" x="2276" y="0" width="298" height="485" frameX="-36" frameY="-1" frameWidth="341" frameHeight="486"/>
+	<SubTexture name="cheerRight0004" x="2576" y="0" width="296" height="486" frameX="-39" frameY="0" frameWidth="341" frameHeight="486"/>
+	
+</TextureAtlas>

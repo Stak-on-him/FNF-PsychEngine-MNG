@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="headdzo.png">
+	
+	<SubTexture name="idle0000" x="0" y="0" width="358" height="720" frameX="0" frameY="-5" frameWidth="358" frameHeight="725"/>
+	<SubTexture name="idle0001" x="360" y="0" width="358" height="720" frameX="0" frameY="-2" frameWidth="358" frameHeight="725"/>
+	<SubTexture name="idle0002" x="720" y="0" width="358" height="720" frameX="0" frameY="-1" frameWidth="358" frameHeight="725"/>
+	<SubTexture name="idle0003" x="1080" y="0" width="358" height="720" frameX="0" frameY="0" frameWidth="358" frameHeight="725"/>
+	
+	<SubTexture name="cheerLeft0000" x="1809" y="0" width="359" height="721" frameX="0" frameY="-16" frameWidth="378" frameHeight="737"/>
+	<SubTexture name="cheerLeft0001" x="3253" y="0" width="356" height="723" frameX="0" frameY="-10" frameWidth="378" frameHeight="737"/>
+	<SubTexture name="cheerLeft0002" x="2532" y="0" width="354" height="722" frameX="0" frameY="-4" frameWidth="378" frameHeight="737"/>
+	<SubTexture name="cheerLeft0003" x="3611" y="0" width="358" height="725" frameX="-6" frameY="0" frameWidth="378" frameHeight="737"/>
+	
+	<SubTexture name="cheerRight0000" x="1440" y="0" width="367" height="721" frameX="-11" frameY="-16" frameWidth="378" frameHeight="737"/>
+	<SubTexture name="cheerRight0001" x="2888" y="0" width="363" height="723" frameX="-12" frameY="-10" frameWidth="378" frameHeight="737"/>
+	<SubTexture name="cheerRight0002" x="2170" y="0" width="360" height="722" frameX="-6" frameY="-4" frameWidth="378" frameHeight="737"/>
+	<SubTexture name="cheerRight0003" x="3611" y="0" width="358" height="725" frameX="-6" frameY="0" frameWidth="378" frameHeight="737"/>
+	
+</TextureAtlas>

@@ -1,0 +1,230 @@
+{
+	"objects": [
+		{
+			"x": -1707,
+			"y": -1101,
+			"scale": [
+				1.5,
+				1.5
+			],
+			"image": "terresstra/sky",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1172,
+			"y": -447,
+			"scale": [
+				1.4,
+				1.5
+			],
+			"image": "terresstra/cloud",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1297,
+			"y": -84,
+			"scale": [
+				1.3,
+				1
+			],
+			"image": "terresstra/ocean",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite8",
+			"firstAnimation": "ocean",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 24,
+					"anim": "ocean",
+					"indices": [],
+					"name": "ocean"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -1244,
+			"y": 137,
+			"scale": [
+				1,
+				1
+			],
+			"image": "terresstra/hills",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite4",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				0.95
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -723,
+			"y": -399,
+			"scale": [
+				0.95,
+				0.95
+			],
+			"image": "terresstra/ground",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite5",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -120,
+			"y": 110,
+			"scale": [
+				0.95,
+				0.95
+			],
+			"image": "terresstra/crowd",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite6",
+			"firstAnimation": "crowd",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 24,
+					"anim": "crowd",
+					"indices": [],
+					"name": "crowd"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"x": 785,
+			"y": 35,
+			"scale": [
+				1,
+				1
+			],
+			"image": "terresstra/astroGF",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite10",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": [
+						0,
+						10
+					],
+					"loop": true,
+					"fps": 24,
+					"anim": "idle",
+					"indices": [],
+					"name": "AstroGFdance"
+				},
+				{
+					"offsets": [
+						230,
+						10
+					],
+					"loop": false,
+					"fps": 24,
+					"anim": "cheer",
+					"indices": [],
+					"name": "AstroGFdies"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"defaultZoom": 0.8,
+	"opponent": [
+		100,
+		90
+	],
+	"directory": "",
+	"girlfriend": [
+		415,
+		130
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		950,
+		130
+	],
+	"hide_girlfriend": false
+}

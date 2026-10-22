@@ -1,0 +1,75 @@
+{
+	"camera_boyfriend": [
+		-55,
+		0
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "Sim01-pa",
+		"dad": "pohsan",
+		"gf": "none"
+	},
+	"boyfriend": [
+		1023,
+		114
+	],
+	"stageUI": "",
+	"girlfriend": [
+		424,
+		144
+	],
+	"defaultZoom": 0.6,
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"x": -999,
+			"y": -774,
+			"scale": [
+				2.3,
+				2.1
+			],
+			"image": "GPTM",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		100,
+		100
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="speakersLeft.png">
+	
+	<SubTexture name="idle0000" x="0" y="0" width="521" height="453" frameX="0" frameY="0" frameWidth="521" frameHeight="456"/>
+	<SubTexture name="idle0001" x="1030" y="0" width="505" height="415" frameX="0" frameY="-28" frameWidth="521" frameHeight="456"/>
+	<SubTexture name="idle0002" x="523" y="0" width="505" height="443" frameX="-9" frameY="-13" frameWidth="521" frameHeight="456"/>
+	
+</TextureAtlas>
