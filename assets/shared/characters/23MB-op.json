@@ -1,76 +1,76 @@
 {
 	"animations": [
 		{
+			"offsets": [-22, 210],
 			"loop": false,
-			"offsets": [-22, 211],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Idle0",
-			"indices": []
+			"indices": [],
+			"name": "Idle0"
 		},
 		{
+			"offsets": [17, 196],
 			"loop": false,
-			"offsets": [10, 196],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Left0",
-			"indices": []
+			"indices": [],
+			"name": "Left0"
 		},
 		{
+			"offsets": [19, 196],
 			"loop": false,
-			"offsets": [8, 191],
+			"fps": 24,
 			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "Left-Miss0",
-			"indices": []
+			"indices": [],
+			"name": "Left-Miss0"
 		},
 		{
+			"offsets": [-90, 271],
 			"loop": false,
-			"offsets": [-127, 271],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "Up0",
-			"indices": []
+			"indices": [],
+			"name": "Up0"
 		},
 		{
+			"offsets": [-80, 275],
 			"loop": false,
-			"offsets": [-124, 272],
+			"fps": 24,
 			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "Up-Miss0",
-			"indices": []
+			"indices": [],
+			"name": "Up-Miss0"
 		},
 		{
+			"offsets": [-88, 119],
 			"loop": false,
-			"offsets": [-89, 109],
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Down0",
-			"indices": []
+			"indices": [],
+			"name": "Down0"
 		},
 		{
+			"offsets": [-77, 124],
 			"loop": false,
-			"offsets": [-75, 119],
+			"fps": 24,
 			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "Down-Miss0",
-			"indices": []
+			"indices": [],
+			"name": "Down-Miss0"
 		},
 		{
+			"offsets": [15, 202],
 			"loop": false,
-			"offsets": [-24, 209],
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Right0",
-			"indices": []
+			"indices": [],
+			"name": "Right0"
 		},
 		{
+			"offsets": [-1, 223],
 			"loop": false,
-			"offsets": [-27, 223],
-			"anim": "singRIGHTmiss",
 			"fps": 24,
-			"name": "Right-Miss0",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right-Miss0"
 		}
 	],
 	"vocals_file": "23MBop",

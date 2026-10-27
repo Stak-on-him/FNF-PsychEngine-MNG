@@ -1,0 +1,36 @@
+{
+	"storyName": "Room 1",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "ladeche1",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"23mb",
+		"bf",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Son 1",
+			"23MB",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Son 2",
+			"23MB",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Room 1",
+	"hiddenUntilUnlocked": true
+}
